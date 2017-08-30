@@ -3,7 +3,7 @@ This project tested on mac os and VirtualBox
 
 **install a Ubuntu 16.04 Vagrant image with Apache.**
 
-1- Creat a folder and name it. (ex: VagrantTest)
+1- Creat a folder and name it. (ex: VagrantTest)\n
 2- Download **script.sh** in VagrantTest folder > this script will install **Apache2**
 3- Open **Terminal** and enter to this folder by typing: (*cd PathToFolder/VagrantTest*)
 4- Then in **Terminal** run *vagrant init ubuntu/xenial64* > vagrantfile will created in VagrantTest folder
